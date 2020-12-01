@@ -1,0 +1,7 @@
+Try
+Understand
+Visualize
+Use tools
+make model
+veify model
+done

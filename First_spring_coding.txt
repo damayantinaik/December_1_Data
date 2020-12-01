@@ -6,3 +6,4 @@ make model
 veify model
 Collaborate with people to improve
 done
+Present to management committee
